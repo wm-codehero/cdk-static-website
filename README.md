@@ -1,8 +1,7 @@
-# Welcome to your CDK TypeScript project
+# CDK um eine statische Website zu hosten
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+Mit dieser CDK kannst du deine statische Website in S3 hosten.
+Einfach deinen kompletten Source code in den Ordner **src** schieben
 
 ## Useful commands
 
@@ -12,3 +11,9 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `npx cdk deploy`  deploy this stack to your default AWS account/region
 * `npx cdk diff`    compare deployed stack with current state
 * `npx cdk synth`   emits the synthesized CloudFormation template
+
+## Über den Autor
+
+Dieses Projekt wird gepflegt von **Wolfgang Müller**.
+
+- GitHub: [@wm-codehero](https://github.com/wm-codehero)

@@ -1,6 +1,7 @@
 {
   "name": "cdk-static-website",
   "version": "0.1.0",
+  "author": "Wolfgang Müller",
   "bin": {
     "cdk-static-website": "bin/cdk-static-website.js"
   },
@@ -22,5 +23,9 @@
   "dependencies": {
     "aws-cdk-lib": "2.215.0",
     "constructs": "^10.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/wm-codehero/aws-cdk/issues"
+  },
+  "homepage": "https://github.com/wm-codehero/aws-cdk#readme"
 }
